@@ -1,30 +1,32 @@
+
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
-Tell us about your project here
+# Holo - MAGNATHON
+
+Digital displays have changed the paper industry. Likewise, we see a huge
+possibility for holograms in sustainable development. We - team Big-Zero - are
+planning to make a simple and easy (DIY) and interactive hologram which helps to
+get the hologram experience to more people. we are planning to achieve this using
+a mobile app (which will have features such as hand tracking) and with some
+specially designed glasses (instead of flat glasses we are planning to use spherical
+shape glasses).
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
-
-## Link to Project
-[Embed the live link of project](live_link)
+[1.Aslah MM](https://github.com/onetwothree)   
+[2.Jithin Raj](https://github.com/jithinchirakkal)   
+[3.Ajmal Roshan](https://github.com/ajmalroshan123)  
+[4.Basith P](https://github.com/Basith-P)   
 
 ## How it Works ?
-Explaining the working of project  
-Embed video of project demo
+We display the image in the android app onto a curved glasss, and use hand tracking to make it more interactive.
 
 ## Technologies used
-List out tech stacks you have used
+Java
+Mediapipe
 
 ## How to configure
-Instructions for setting up project
+clone `https://github.com/jiuqiant/mediapipe_multi_hands_tracking_aar_example` and replace the `MainActivity.java` and `activity_main.xml`.
 
 ## How to Run
-Instructions for running
-
-## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+Build apk in android studio. Then install it in an android smartphone and run the app. Place the screen opposite to a the inside shpere shaped glass. Look from behind and you will feel like the reflection is floating. You can make an 'O sign' with your thumb and index finger on the reflection (in the vicinity of front camera) and the digit will change. 

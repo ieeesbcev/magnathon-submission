@@ -1,30 +1,31 @@
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
-Tell us about your project here
+# TrashToKart.com - MAGNATHON
+A website which allows both pickup of domestic waste as well as selling of recycled products.
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.Nikhitha Eldhose](enter_github_profile_url)   
+[2.Pardhiv Krishna](https://github.com/Pardhiv2412)
+   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[TrashToKart](https://techtainsofficial.wixsite.com/trashtokart)
 
 ## How it Works ?
-Explaining the working of project  
-Embed video of project demo
+There is a pick up option available which enables the user to request for a pickup. 
+After picking up the waste, it is then given to needful industries and other recycling communities.
+Industries/Organizations can also tie up with us in taking those collected waste.
+Recycled products made from the waste are sold through the website back to people.
 
 ## Technologies used
-List out tech stacks you have used
+HTML,CSS,JavaScript.
 
 ## How to configure
-Instructions for setting up project
+NIL
 
 ## How to Run
-Instructions for running
+The website is already published on internet and can be run on any device using the URL
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+NIL
